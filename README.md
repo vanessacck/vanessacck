@@ -4,7 +4,6 @@
 
 - **Year 1 Computer Science student @ HKUST**
 - Currently learning **React & Node.js**
-- Seeking **Software Engineering Internship opportunities for Summer 2027**!
 
 ---
 
@@ -27,13 +26,6 @@
 
 - **[Sports Day Registration & Management System](https://github.com/vanessacck/Sports-Day-Registration-and-Management-System.git):** Python & MySQL database application automating event enrollment rules, constraints, and scoring systems.
 - **[What Should I Eat Today?](https://github.com/vanessacck/What-should-I-eat-today-.git):** Cross-platform Flutter & Dart mobile app featuring a custom spinning wheel to select random dining options.
-
----
-
-### 📬 Connect With Me
-
-- **Email:** ckchengao@connect.ust.hk
-- **GitHub:** [@vanessacck](https://github.com/vanessacck)
 
 <!--
 **vanessacck/vanessacck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
