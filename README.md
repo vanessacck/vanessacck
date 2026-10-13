@@ -16,12 +16,6 @@
 
 ---
 
-### 🤖 Team & Experience
-
-- **HKUST Robotics Team (Software Trainee):** Developing embedded C code and control algorithms for robotic subsystems and hardware integration.
-
----
-
 ### 🚀 Featured Projects
 
 - **[Sports Day Registration & Management System](https://github.com/vanessacck/Sports-Day-Registration-and-Management-System.git):** Python & MySQL database application automating event enrollment rules, constraints, and scoring systems.
