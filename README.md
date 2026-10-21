@@ -1,26 +1,5 @@
 # Hi there, I'm Vanessa 👋
 
-### About Me
-
-- **Year 1 Computer Science student @ HKUST**
-- Currently learning **React & Node.js**
-
----
-
-### 🛠️ Tech Stack & Skills
-
-- **Languages:** Python, C, C++, Dart, SQL
-- **Web & Mobile:** Flutter, React *(Learning)*, Node.js *(Learning)*
-- **Databases & Embedded:** MySQL, Embedded C Systems, Microcontrollers
-- **Tools & Platforms:** Git, GitHub, VS Code, MySQL Workbench
-
----
-
-### 🚀 Featured Projects
-
-- **[Sports Day Registration & Management System](https://github.com/vanessacck/Sports-Day-Registration-and-Management-System.git):** Python & MySQL database application automating event enrollment rules, constraints, and scoring systems.
-- **[What Should I Eat Today?](https://github.com/vanessacck/What-should-I-eat-today-.git):** Cross-platform Flutter & Dart mobile app featuring a custom spinning wheel to select random dining options.
-
 <!--
 **vanessacck/vanessacck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
